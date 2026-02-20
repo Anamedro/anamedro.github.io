@@ -1,2 +1,2 @@
-# anamedro.github.io
-Blog of sorts.
+dumb site for me to put my dumb stuff on
+follow if ur cool
