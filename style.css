@@ -1,0 +1,44 @@
+body {
+    background-color:brown;
+    margin-top: 0;
+    padding: 0;
+}
+
+
+.bgnd {
+    background-color: bisque;
+    margin-left: 25%;
+    width: 50vw;
+    height: 100vh;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+}
+.btns div {
+    display: flex;
+    margin-left: 10px;
+    background-color: black;
+    border-radius: 50px;
+    width: 100px;
+    height: 50px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-family: "Arimo", sans-serif;
+}
+
+h1 {
+    font-family: "Arimo", sans-serif;
+}
+
+a, u {
+    text-decoration: none;
+}
